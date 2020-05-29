@@ -3,8 +3,6 @@
 # Analysis on Coursera Courses
 It contains data analysis and data visualization about Coursera Courses.
 
-### [View visualization using Tableau]()
-
 ## Documentation
 - Data Analysis: [.ipynb file](https://nbviewer.jupyter.org/github/albertbill/Coursera-Courses-Analysis/blob/ad4f8590c2ef90904b7dba07fe7f9fc9d41a8ab0/coursera.ipynb)
 
