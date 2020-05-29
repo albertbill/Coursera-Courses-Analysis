@@ -1,4 +1,4 @@
-![alt text](img/udemy.png)
+![alt text](img/coursera.png)
 
 # Analysis on Coursera Courses
 It contains data analysis and data visualization about Coursera Courses.
